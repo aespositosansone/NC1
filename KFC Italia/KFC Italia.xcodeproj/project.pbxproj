@@ -14,6 +14,7 @@
 		6EF3E661292FC76900C03F35 /* KFC_ItaliaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF3E660292FC76900C03F35 /* KFC_ItaliaTests.swift */; };
 		6EF3E66B292FC76900C03F35 /* KFC_ItaliaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF3E66A292FC76900C03F35 /* KFC_ItaliaUITests.swift */; };
 		6EF3E66D292FC76900C03F35 /* KFC_ItaliaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF3E66C292FC76900C03F35 /* KFC_ItaliaUITestsLaunchTests.swift */; };
+		6EF3E67A292FCBE900C03F35 /* ProductsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF3E679292FCBE900C03F35 /* ProductsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		6EF3E666292FC76900C03F35 /* KFC ItaliaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "KFC ItaliaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EF3E66A292FC76900C03F35 /* KFC_ItaliaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KFC_ItaliaUITests.swift; sourceTree = "<group>"; };
 		6EF3E66C292FC76900C03F35 /* KFC_ItaliaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KFC_ItaliaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6EF3E679292FCBE900C03F35 /* ProductsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				6EF3E64F292FC76800C03F35 /* KFC_ItaliaApp.swift */,
 				6EF3E651292FC76800C03F35 /* ContentView.swift */,
+				6EF3E679292FCBE900C03F35 /* ProductsView.swift */,
 				6EF3E653292FC76900C03F35 /* Assets.xcassets */,
 				6EF3E655292FC76900C03F35 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				6EF3E652292FC76800C03F35 /* ContentView.swift in Sources */,
 				6EF3E650292FC76800C03F35 /* KFC_ItaliaApp.swift in Sources */,
+				6EF3E67A292FCBE900C03F35 /* ProductsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

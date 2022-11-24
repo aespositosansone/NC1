@@ -316,7 +316,7 @@ struct ContentView: View {
                 HStack(spacing:160){
                     Text("PRODUCTS").font(.system(size: 25, weight: .bold))
                     Button{
-                       
+                    
                     }
                 label: {
                     Text("See all").font(.system(size: 17, weight: .regular)).foregroundColor(Color("gray1")).tracking(-0.41)
